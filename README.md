@@ -18,7 +18,7 @@
 - **Source, releases, issues:** [github.com/Crypto90/ControlTogether](https://github.com/Crypto90/ControlTogether)
 - **Website and downloads:** [controltogether.com](https://controltogether.com/)
 - **Community:** [r/ControlTogether](https://www.reddit.com/r/ControlTogether/)
-- **Joining from a browser:** [play.gamernova.net](https://play.gamernova.net/), as before
+- **Joining from a browser:** [play.controltogether.com](https://play.controltogether.com/) (the page stays at play.gamernova.net too)
 
 ## Already have the app?
 
@@ -26,4 +26,4 @@ Nothing to do. It updates itself to ControlTogether and keeps your settings, fri
 
 ## Why this repository is still here
 
-Apps from before the rename (0.5.2 to 0.8.3) and game computers look for their update under this old name. Its only release, **0.9.0**, carries the files under their old names: they install it and from then on follow [ControlTogether](https://github.com/Crypto90/ControlTogether). Please open issues and pull requests there.
+Apps from before the rename (0.5.2 to 0.8.3) and game computers look for their update under this old name. Its releases carry the files under their old names, the newest is **0.9.1**: those apps install it and from then on follow [ControlTogether](https://github.com/Crypto90/ControlTogether). Please open issues and pull requests there.
